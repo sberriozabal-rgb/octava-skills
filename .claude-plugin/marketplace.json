@@ -1,0 +1,30 @@
+{
+  "name": "octava",
+  "owner": {
+    "name": "Sergio Berriozábal Serrano"
+  },
+  "metadata": {
+    "description": "Skills de oficio para Claude: hostelería, cabina de DJ y B2B. Una abierta e instalable desde aquí; el resto, con ficha y precio en el catálogo.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "octava-abiertas",
+      "source": "./plugins/octava-abiertas",
+      "description": "Skills abiertas de hostelería: checklist de apertura, cambio y cierre de turno con responsable, momento y criterio de hecho, más el parte de incidencias.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sergio Berriozábal Serrano"
+      },
+      "license": "Propietaria: uso permitido, redistribución prohibida.",
+      "keywords": [
+        "hosteleria",
+        "restaurante",
+        "checklist",
+        "turno",
+        "claude-skills"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
