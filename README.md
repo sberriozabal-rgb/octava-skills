@@ -25,13 +25,13 @@ inteligencia de competencia).
 
 | Skill | Qué hace | Precio |
 |---|---|---|
-| [apertura-cierre-turno](catalogo/apertura-cierre-turno.md) |  | Gratis (skill abierta) · también dentro de la Instalación Esencial |
-| [comparativa-proveedores](catalogo/comparativa-proveedores.md) |  | Instalación Esencial 2.500 € · Completa 4.900 € |
-| [escandallo-ingenieria-menu](catalogo/escandallo-ingenieria-menu.md) |  | Instalación Esencial 2.500 € · Completa 4.900 € |
+| [Apertura y cierre de turno](catalogo/apertura-cierre-turno.md) | El checklist que se ejecuta, no el que se firma sin mirar. | Gratis (skill abierta) · también dentro de la Instalación Esencial |
+| [Comparativa de proveedores](catalogo/comparativa-proveedores.md) | Te digo qué te ha subido de verdad, cuánto de eso se corrige solo con la temporada, y quién te lo tiene hoy más barato con el precio puesto en la misma unidad. | Instalación Esencial 2.500 € · Completa 4.900 € |
+| [Escandallo e ingeniería de menú](catalogo/escandallo-ingenieria-menu.md) | Tu merluza no cuesta lo que pone el albarán. Cuesta el doble, y está en tu carta. | Instalación Esencial 2.500 € · Completa 4.900 € |
 | [Productividad de personal por turno](catalogo/productividad-personal-turno.md) | Sabes en qué franjas pagas plantilla sin venta y en cuáles pierdes venta por falta de mano. | 199 € suelta · o en la Instalación Completa |
-| [receta-estandar](catalogo/receta-estandar.md) |  | Entra en la Instalación Completa sin coste cuando pase la revisión externa de inocuidad |
+| [Receta estándar](catalogo/receta-estandar.md) | La receta de tu local, no una receta bonita: con la temperatura que exige la norma de tu país y el hueco marcado donde todavía no has pesado. | Entra en la Instalación Completa sin coste cuando pase la revisión externa de inocuidad |
 | [Radar semanal de competencia](catalogo/reporte-inteligencia-competencia.md) | Cada lunes: cómo vas contra los seis de tu zona, qué hacen ellos que tú no, y tres cosas para esta semana. | Instalación Completa 4.900 € |
-| [respuesta-resenas](catalogo/respuesta-resenas.md) |  | Instalación Completa 4.900 € |
+| [Respuesta a reseñas](catalogo/respuesta-resenas.md) | Te digo si tus reseñas malas repiten siempre el mismo problema, y te dejo escritas las respuestas. | Instalación Completa 4.900 € |
 
 ## CABINA · para DJ
 

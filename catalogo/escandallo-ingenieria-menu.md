@@ -1,8 +1,8 @@
-# escandallo-ingenieria-menu
+# Escandallo e ingeniería de menú
 
 `escandallo-ingenieria-menu` · v1.1.1 · Hostelería
 
-> 
+> Tu merluza no cuesta lo que pone el albarán. Cuesta el doble, y está en tu carta.
 
 **Precio:** Instalación Esencial 2.500 € · Completa 4.900 €
 
@@ -16,7 +16,6 @@ Esto no es una tabla de costes que cualquier hoja de cálculo produce. Un escand
 
 
 
-**Para quién NO es:** 
 
 ## Qué NO hace
 

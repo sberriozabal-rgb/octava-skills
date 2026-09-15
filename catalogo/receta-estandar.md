@@ -1,8 +1,8 @@
-# receta-estandar
+# Receta estándar
 
 `receta-estandar` · v1.1.1 · Hostelería
 
-> 
+> La receta de tu local, no una receta bonita: con la temperatura que exige la norma de tu país y el hueco marcado donde todavía no has pesado.
 
 **Precio:** Entra en la Instalación Completa sin coste cuando pase la revisión externa de inocuidad
 
@@ -30,7 +30,6 @@ plausible que alguien cocinará como si fuera cierto.
 
 
 
-**Para quién NO es:** 
 
 ## Qué NO hace
 

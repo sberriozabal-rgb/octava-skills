@@ -1,8 +1,8 @@
-# respuesta-resenas
+# Respuesta a reseñas
 
 `respuesta-resenas` · v1.2.0 · Hostelería
 
-> 
+> Te digo si tus reseñas malas repiten siempre el mismo problema, y te dejo escritas las respuestas.
 
 **Precio:** Instalación Completa 4.900 €
 
@@ -25,7 +25,6 @@ es ruido; el mismo motivo tres veces en dos meses es una señal operativa que se
 
 
 
-**Para quién NO es:** 
 
 ## Qué NO hace
 

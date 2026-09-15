@@ -1,8 +1,8 @@
-# apertura-cierre-turno
+# Apertura y cierre de turno
 
 `apertura-cierre-turno` · v1.1.2 · Hostelería
 
-> 
+> El checklist que se ejecuta, no el que se firma sin mirar.
 
 **Precio:** Gratis (skill abierta) · también dentro de la Instalación Esencial
 
@@ -16,7 +16,6 @@ Esto no es una lista genérica de sentido común. Es la secuencia real de un loc
 
 
 
-**Para quién NO es:** 
 
 ## Qué NO hace
 

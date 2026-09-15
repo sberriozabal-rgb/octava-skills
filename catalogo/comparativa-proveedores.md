@@ -1,8 +1,8 @@
-# comparativa-proveedores
+# Comparativa de proveedores
 
 `comparativa-proveedores` · v1.1.1 · Hostelería
 
-> 
+> Te digo qué te ha subido de verdad, cuánto de eso se corrige solo con la temporada, y quién te lo tiene hoy más barato con el precio puesto en la misma unidad.
 
 **Precio:** Instalación Esencial 2.500 € · Completa 4.900 €
 
@@ -28,7 +28,6 @@ tramita obligar a declararla en el punto de venta (Ipsos y Ley de Consumo Sosten
 
 
 
-**Para quién NO es:** 
 
 ## Qué NO hace
 
