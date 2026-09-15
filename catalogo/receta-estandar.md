@@ -4,7 +4,7 @@
 
 > La receta de tu local, no una receta bonita: con la temperatura que exige la norma de tu país y el hueco marcado donde todavía no has pesado.
 
-**Precio:** Entra en la Instalación Completa sin coste cuando pase la revisión externa de inocuidad
+**Precio:** Instalación Completa 4.900 € · se entrega con el anexo de seguridad alimentaria firmado
 
 ## Qué hace
 
@@ -65,7 +65,12 @@ plausible que alguien cocinará como si fuera cierto.
 
 ## Cómo se compra
 
-Todavía no se factura: espera la revisión de un consultor de seguridad alimentaria. Quien compre la Instalación Completa la recibe sin coste cuando pase.
+Dentro de la Instalación Completa, que se contrata con [este formulario](../../../issues/new?template=instalacion.yml).
+Se entrega en la visita, con las recetas reales del local, y solo con el anexo contractual de
+seguridad alimentaria firmado: la responsabilidad sobre inocuidad, binomios tiempo-temperatura y
+alérgenos queda en el titular del negocio, como exige la norma. La revisión externa de un
+consultor de seguridad alimentaria sigue en curso; cada ficha marca `[A VALIDAR]` lo que él
+todavía no ha confirmado.
 
 ## Licencia
 
