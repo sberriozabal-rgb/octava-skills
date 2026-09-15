@@ -40,9 +40,9 @@ exports de rekordbox o Serato; no tocan tu biblioteca.
 
 | Paquete | Contenido | Precio |
 |---|---|---|
-| **CABINA COMPLETA** | las seis | **249 €** |
-| CABINA CORE | auditoría + parte de bolo + set por encargo | 149 € |
-| CABINA EVENTOS | peticiones a repertorio + presupuesto y contrato | 99 € |
+| **CABINA COMPLETA** | las seis | **249 €** · [comprar](https://cabina.gumroad.com/l/cabina-completa) |
+| CABINA CORE | auditoría + parte de bolo + set por encargo | 149 € · [comprar](https://cabina.gumroad.com/l/cabina-core) |
+| CABINA EVENTOS | peticiones a repertorio + presupuesto y contrato | 99 € · [comprar](https://cabina.gumroad.com/l/cabina-eventos) |
 | Cualquiera suelta | una skill | 49 € |
 
 | Skill | Qué hace | Precio suelta |
@@ -63,14 +63,13 @@ exports de rekordbox o Serato; no tocan tu biblioteca.
 | [Respaldo cifrado de proyecto de IA](catalogo/respaldo-proyecto-ia-cl.md) | Te llevas tu proyecto entero cifrado, con el guion para rehacerlo y la lista de lo que no cabía. Probado en frío antes de que borres nada. | 49 € · PACK CONTEXTO 89 € con el compilador |
 | [Compilador de contexto de proyecto](catalogo/universal-compilador-contexto.md) | Todo lo que hay en tu carpeta, ordenado por temas, con la versión vigente marcada y la lista de lo que aún no has decidido. | 49 € · PACK CONTEXTO 89 € con el respaldo |
 
-**PACK CONTEXTO 89 €**: respaldo + compilador, la misma cadena en dos mitades.
+**PACK CONTEXTO 89 €** · [comprar](https://cabina.gumroad.com/l/pack-contexto): respaldo + compilador, la misma cadena en dos mitades.
 
 ## Cómo se compra
 
 Pago único, descarga inmediata, en la tienda de Gumroad enlazada en cada ficha. Si un enlace
-todavía no responde, la tienda está en alta: abre un *issue* en este repositorio con el nombre
-del producto. Las instalaciones de hostelería se contratan por *issue* o por el canal de contacto
-del perfil.
+todavía no responde, la tienda está en alta: [pide el producto aquí](../../issues/new?template=comprar.yml).
+Las instalaciones de hostelería se contratan con [este formulario](../../issues/new?template=instalacion.yml).
 
 ## Lo que ninguna skill promete
 

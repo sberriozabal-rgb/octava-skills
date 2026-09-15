@@ -1,0 +1,43 @@
+name: Instalación de hostelería
+description: Pide la Instalación Esencial (2.500 €) o Completa (4.900 €) para tu restaurante.
+title: "Instalación: "
+labels: ["instalacion"]
+body:
+  - type: dropdown
+    id: formato
+    attributes:
+      label: Formato
+      options:
+        - Instalación Esencial · 3 skills · 2.500 €
+        - Instalación Completa · 6 skills · 4.900 €
+        - No lo sé todavía
+    validations:
+      required: true
+  - type: input
+    id: local
+    attributes:
+      label: Tipo de local y ciudad
+      placeholder: "Restaurante de 60 plazas, Playa del Carmen"
+    validations:
+      required: true
+  - type: input
+    id: plantilla
+    attributes:
+      label: Plantilla aproximada
+      placeholder: "12 personas entre sala y cocina"
+  - type: dropdown
+    id: datos
+    attributes:
+      label: Qué datos tienes a mano
+      multiple: true
+      options:
+        - Export de ventas por producto del TPV
+        - Facturas o albaranes de proveedores
+        - Cuadrante de turnos
+        - Reseñas exportadas
+        - Ninguno todavía
+  - type: markdown
+    attributes:
+      value: |
+        La instalación se ejecuta en tu local con tus datos, nunca con una demo. Si al terminar la
+        primera sesión no te ha servido, te quedas el análisis igual.

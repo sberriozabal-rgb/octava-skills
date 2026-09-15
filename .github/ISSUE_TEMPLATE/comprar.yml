@@ -1,0 +1,46 @@
+name: Comprar una skill o un paquete
+description: Si el enlace de Gumroad de la ficha todavía no responde, pide aquí el producto.
+title: "Compra: "
+labels: ["compra"]
+body:
+  - type: dropdown
+    id: producto
+    attributes:
+      label: Producto
+      options:
+        - CABINA COMPLETA (6 skills) · 249 €
+        - CABINA CORE (auditoría + parte de bolo + set por encargo) · 149 €
+        - CABINA EVENTOS (peticiones + presupuesto y contrato) · 99 €
+        - Auditoría de biblioteca · 49 €
+        - Parte de bolo · 49 €
+        - Set por encargo · 49 €
+        - Peticiones a repertorio · 49 €
+        - Presupuesto y contrato de evento · 49 €
+        - Demo a sello · 49 €
+        - Plan de cobro de cartera vencida · 79 €
+        - Reporte semanal de inteligencia competitiva · 49 €
+        - PACK CONTEXTO (respaldo + compilador) · 89 €
+        - Respaldo cifrado de proyecto de IA · 49 €
+        - Compilador de contexto de proyecto · 49 €
+        - Productividad de personal por turno · 199 €
+    validations:
+      required: true
+  - type: dropdown
+    id: pais
+    attributes:
+      label: País de facturación
+      options: [España, México, Otro de la UE, Otro fuera de la UE]
+    validations:
+      required: true
+  - type: textarea
+    id: uso
+    attributes:
+      label: Para qué la quieres (opcional)
+      description: Una línea sobre tu caso ayuda a decirte si esta skill es la que necesitas o si te conviene otra. No se publica nada de lo que escribas fuera de este hilo.
+  - type: checkboxes
+    id: limites
+    attributes:
+      label: Antes de comprar
+      options:
+        - label: He leído la sección «Qué NO hace» de la ficha del producto.
+          required: true
