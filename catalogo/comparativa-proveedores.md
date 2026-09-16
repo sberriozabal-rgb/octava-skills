@@ -26,8 +26,9 @@ tramita obligar a declararla en el punto de venta (Ipsos y Ley de Consumo Sosten
 
 ## Para quién es
 
+Restaurante independiente o grupo pequeño, España o México, que compra a **dos o más proveedores del mismo producto** y guarda los albaranes, en carpeta o exportados del programa de compras. Plantilla de 8 a 30 personas y compra de alimentación por encima de unos 4.000 € al mes. Decide el dueño; lo ejecuta él o el jefe de cocina que hace los pedidos.
 
-
+**Para quién NO es:** El local con proveedor único obligado por contrato o por central de compras: sin dos proveedores no hay comparativa. El que tira los albaranes o solo guarda el resumen del banco: sin línea de producto no hay nada que normalizar. Y la franquicia con lista de precios impuesta, que no puede cambiar de proveedor aunque el informe se lo demuestre.
 
 ## Qué NO hace
 

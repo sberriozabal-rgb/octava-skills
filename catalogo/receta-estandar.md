@@ -28,8 +28,9 @@ plausible que alguien cocinará como si fuera cierto.
 
 ## Para quién es
 
+Restaurante con carta fija y producción repetida, al menos una vez por semana, España o México, con una cocina de 3 a 15 personas y más de un cocinero por turno, y con un segundo local, una franquicia o un catering de volumen en el horizonte. Decide el chef propietario o el jefe de cocina; lo ejecuta el jefe de cocina fuera de servicio y lo lee después el cocinero de línea.
 
-
+**Para quién NO es:** La cocina de una sola persona sin rotación: no hay dos cocineros que diverjan, que es el problema que esto resuelve. La alta cocina de autor de pieza única sin repetición prevista. El local cuyo propietario decide que el valor del plato depende de no documentarlo. Y quien venga buscando el plan APPCC: eso no es esto, y se dice en la primera llamada, no en la entrega.
 
 ## Qué NO hace
 

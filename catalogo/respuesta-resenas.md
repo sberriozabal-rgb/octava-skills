@@ -23,8 +23,9 @@ es ruido; el mismo motivo tres veces en dos meses es una señal operativa que se
 
 ## Para quién es
 
+Restaurante independiente, España o México, plantilla de 8 a 30 personas, con ficha activa en Google y volumen suficiente para que un patrón signifique algo: a partir de unas 10-15 reseñas nuevas al mes `[A VALIDAR — calibración de oficio, sin fuente localizada]`. Decide el dueño.
 
-
+**Para quién NO es:** Un grupo con marca consolidada o una cadena: el efecto de ingresos por estrella está medido solo en independientes, así que el argumento central no le aplica y venderlo ahí es venderle humo.
 
 ## Qué NO hace
 

@@ -16,7 +16,7 @@ Un modelo generalista te divide ventas entre horas y te dice que el lunes va mal
 
 Dueño o encargado de restaurante independiente de 1-3 locales, ES/MX. Decide el dueño.
 
-**Para quién NO es:** 
+**Para quién NO es:** Quien quiera señalar a personas: la skill trabaja con franjas y puestos, no propone despidos ni evalúa a nadie. Tampoco un periodo con festivos, obras, vacaciones o una baja sin cubrir: no es representativo y sale declarado como distorsionado.
 
 ## Qué NO hace
 

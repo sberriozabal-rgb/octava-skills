@@ -14,8 +14,9 @@ Esto no es una lista genérica de sentido común. Es la secuencia real de un loc
 
 ## Para quién es
 
+Restaurante o grupo de restauración independiente, España o México, con plantilla de 8 a 30 personas. Decide el dueño o el encargado general.
 
-
+**Para quién NO es:** El local de una sola persona por turno, donde no hay relevo al que entregar ni encargado al que pasar el parte. Y quien busca un plan de higiene certificado o el cuadrante de personal: son otras piezas.
 
 ## Qué NO hace
 

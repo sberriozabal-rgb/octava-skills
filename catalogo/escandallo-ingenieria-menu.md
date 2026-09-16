@@ -14,8 +14,9 @@ Esto no es una tabla de costes que cualquier hoja de cálculo produce. Un escand
 
 ## Para quién es
 
+Restaurante independiente de mesa y mantel o de cocina de producto, España o México, con 8 a 30 personas de plantilla y una carta de 20 a 60 referencias. Decide el dueño; en un grupo pequeño, el gerente con el jefe de cocina delante.
 
-
+**Para quién NO es:** Quien busca poner precio a la carta de vinos o llevar la contabilidad fiscal: son otras piezas, y esta no las sustituye.
 
 ## Qué NO hace
 
