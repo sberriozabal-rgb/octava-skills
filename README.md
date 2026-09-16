@@ -67,8 +67,8 @@ exports de rekordbox o Serato; no tocan tu biblioteca.
 
 ## Cómo se compra
 
-Pago único, descarga inmediata, en la tienda de Gumroad enlazada en cada ficha. Si un enlace
-todavía no responde, la tienda está en alta: [pide el producto aquí](../../issues/new?template=comprar.yml).
+Pago único y descarga inmediata en la tienda de Gumroad, <https://cabina.gumroad.com>, enlazada en
+cada ficha. Si un enlace fallara, [pide el producto aquí](../../issues/new?template=comprar.yml).
 Las instalaciones de hostelería se contratan con [este formulario](../../issues/new?template=instalacion.yml).
 
 ## Lo que ninguna skill promete
