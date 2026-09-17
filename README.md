@@ -28,7 +28,7 @@ competencia y receta estándar).
 | [Apertura y cierre de turno](catalogo/apertura-cierre-turno.md) | El checklist que se ejecuta, no el que se firma sin mirar. | Gratis (skill abierta) · también dentro de la Instalación Esencial |
 | [Comparativa de proveedores](catalogo/comparativa-proveedores.md) | Te digo qué te ha subido de verdad, cuánto de eso se corrige solo con la temporada, y quién te lo tiene hoy más barato con el precio puesto en la misma unidad. | Instalación Esencial 2.500 € · Completa 4.900 € |
 | [Escandallo e ingeniería de menú](catalogo/escandallo-ingenieria-menu.md) | Tu merluza no cuesta lo que pone el albarán. Cuesta el doble, y está en tu carta. | Instalación Esencial 2.500 € · Completa 4.900 € |
-| [Productividad de personal por turno](catalogo/productividad-personal-turno.md) | Sabes en qué franjas pagas plantilla sin venta y en cuáles pierdes venta por falta de mano. | 199 € suelta · o en la Instalación Completa |
+| [Productividad de personal por turno](catalogo/productividad-personal-turno.md) | Sabes en qué franjas pagas plantilla sin venta y en cuáles pierdes venta por falta de mano. | 199 € suelta · o en la Instalación Completa · [comprar](https://cabina.gumroad.com/l/productividad-personal-turno) |
 | [Receta estándar](catalogo/receta-estandar.md) | La receta de tu local, no una receta bonita: con la temperatura que exige la norma de tu país y el hueco marcado donde todavía no has pesado. | Instalación Completa 4.900 € · se entrega con el anexo de seguridad alimentaria firmado |
 | [Radar semanal de competencia](catalogo/reporte-inteligencia-competencia.md) | Cada lunes: cómo vas contra los seis de tu zona, qué hacen ellos que tú no, y tres cosas para esta semana. | Instalación Completa 4.900 € |
 | [Respuesta a reseñas](catalogo/respuesta-resenas.md) | Te digo si tus reseñas malas repiten siempre el mismo problema, y te dejo escritas las respuestas. | Instalación Completa 4.900 € |
@@ -47,22 +47,20 @@ exports de rekordbox o Serato; no tocan tu biblioteca.
 
 | Skill | Qué hace | Precio suelta |
 |---|---|---|
-| [Auditoría de biblioteca](catalogo/auditoria-de-biblioteca.md) | Te digo qué tracks te van a fallar en el próximo bolo, y en qué orden arreglarlos. | 49 € |
-| [Demo a sello](catalogo/demo-a-sello.md) | El canal que pide cada sello, la frase que lo distingue de los otros cien envíos, y la fecha correcta para que Beatport y Spotify lleguen a tiempo. | 49 € |
-| [Peticiones a repertorio](catalogo/peticiones-a-repertorio.md) | Qué tengo, qué hay que comprar, qué está en una versión que no sirve y qué me han pedido que no ponga. Con el documento para el cliente ya escrito. | 49 € |
-| [Parte de bolo](catalogo/postmortem-de-bolo.md) | Qué se cortó pronto, qué se sostuvo y dónde saltó el tempo. Con la hora exacta, no con lo que recuerdes. | 49 € |
-| [Presupuesto y contrato de evento](catalogo/presupuesto-y-contrato-evento.md) | Las seis cláusulas que se pagan cuando faltan, y el presupuesto desglosado para que negociar no sea bajar el margen. | 49 € |
-| [Set por encargo](catalogo/set-por-encargo.md) | Te cambian el slot a las siete de la tarde y a las ocho tienes el set reordenado, con el por qué de cada transición. | 49 € |
-
+| [Auditoría de biblioteca](catalogo/auditoria-de-biblioteca.md) | Te digo qué tracks te van a fallar en el próximo bolo, y en qué orden arreglarlos. | 49 € · [comprar](https://cabina.gumroad.com/l/auditoria-de-biblioteca) |
+| [Demo a sello](catalogo/demo-a-sello.md) | El canal que pide cada sello, la frase que lo distingue de los otros cien envíos, y la fecha correcta para que Beatport y Spotify lleguen a tiempo. | 49 € · [comprar](https://cabina.gumroad.com/l/demo-a-sello) |
+| [Peticiones a repertorio](catalogo/peticiones-a-repertorio.md) | Qué tengo, qué hay que comprar, qué está en una versión que no sirve y qué me han pedido que no ponga. Con el documento para el cliente ya escrito. | 49 € · [comprar](https://cabina.gumroad.com/l/peticiones-a-repertorio) |
+| [Parte de bolo](catalogo/postmortem-de-bolo.md) | Qué se cortó pronto, qué se sostuvo y dónde saltó el tempo. Con la hora exacta, no con lo que recuerdes. | 49 € · [comprar](https://cabina.gumroad.com/l/postmortem-de-bolo) |
+| [Presupuesto y contrato de evento](catalogo/presupuesto-y-contrato-evento.md) | Las seis cláusulas que se pagan cuando faltan, y el presupuesto desglosado para que negociar no sea bajar el margen. | 49 € · [comprar](https://cabina.gumroad.com/l/presupuesto-y-contrato-evento) |
+| [Set por encargo](catalogo/set-por-encargo.md) | Te cambian el slot a las siete de la tarde y a las ocho tienes el set reordenado, con el por qué de cada transición. | 49 € · [comprar](https://cabina.gumroad.com/l/set-por-encargo) |
 ## B2B · cualquier sector
 
 | Skill | Qué hace | Precio |
 |---|---|---|
-| [Plan de cobro de cartera vencida](catalogo/cobro-cartera-vencida.md) | A quién reclamar primero, qué escribirle exactamente, y en qué fecha subes el tono si no paga. | 79 € |
-| [Reporte semanal de inteligencia competitiva](catalogo/reporte-inteligencia.md) | Seis competidores, ocho métricas y tres acciones para esta semana. Con la cita y la fecha de cada cosa, para que puedas comprobarlo. | 49 € |
-| [Respaldo cifrado de proyecto de IA](catalogo/respaldo-proyecto-ia-cl.md) | Te llevas tu proyecto entero cifrado, con el guion para rehacerlo y la lista de lo que no cabía. Probado en frío antes de que borres nada. | 49 € · PACK CONTEXTO 89 € con el compilador |
-| [Compilador de contexto de proyecto](catalogo/universal-compilador-contexto.md) | Todo lo que hay en tu carpeta, ordenado por temas, con la versión vigente marcada y la lista de lo que aún no has decidido. | 49 € · PACK CONTEXTO 89 € con el respaldo |
-
+| [Plan de cobro de cartera vencida](catalogo/cobro-cartera-vencida.md) | A quién reclamar primero, qué escribirle exactamente, y en qué fecha subes el tono si no paga. | 79 € · [comprar](https://cabina.gumroad.com/l/cobro-cartera-vencida) |
+| [Reporte semanal de inteligencia competitiva](catalogo/reporte-inteligencia.md) | Seis competidores, ocho métricas y tres acciones para esta semana. Con la cita y la fecha de cada cosa, para que puedas comprobarlo. | 49 € · [comprar](https://cabina.gumroad.com/l/reporte-inteligencia) |
+| [Respaldo cifrado de proyecto de IA](catalogo/respaldo-proyecto-ia-cl.md) | Te llevas tu proyecto entero cifrado, con el guion para rehacerlo y la lista de lo que no cabía. Probado en frío antes de que borres nada. | 49 € · PACK CONTEXTO 89 € con el compilador · [comprar](https://cabina.gumroad.com/l/respaldo-proyecto-ia-cl) |
+| [Compilador de contexto de proyecto](catalogo/universal-compilador-contexto.md) | Todo lo que hay en tu carpeta, ordenado por temas, con la versión vigente marcada y la lista de lo que aún no has decidido. | 49 € · PACK CONTEXTO 89 € con el respaldo · [comprar](https://cabina.gumroad.com/l/universal-compilador-contexto) |
 **PACK CONTEXTO 89 €** · [comprar](https://cabina.gumroad.com/l/pack-contexto): respaldo + compilador, la misma cadena en dos mitades.
 
 ## Cómo se compra
