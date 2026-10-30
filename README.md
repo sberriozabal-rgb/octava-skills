@@ -16,6 +16,17 @@ Es el checklist de **apertura, cambio y cierre de turno** para hostelería, con 
 puesto, momento exacto y criterio de «hecho». Sirve para juzgar cómo trabaja una skill de esta
 serie antes de comprar ninguna.
 
+## Hostelería · empieza por tus números
+
+**[Mira el tablero del Kit de operación](https://sberriozabal-rgb.github.io/octava-skills/tablero/)**
+con el restaurante de referencia del libro *Historia de la hostelería y la gastronomía*: los cinco
+números de la semana, lo que vale un punto de prime cost, la matriz de menú, las fugas y el
+no-show. Lo que se compra es el Excel de doce hojas para meter los tuyos.
+
+| Producto | Qué hace | Precio |
+|---|---|---|
+| [Kit de operación](catalogo/kit-de-operacion.md) | Escribes los números de tu semana y el tablero te dice qué está en banda, qué vigilar y cuánto vale en pesos un punto de prime cost en tu casa. | 49 € · [comprar](https://cabina.gumroad.com/l/kit-de-operacion) |
+
 ## Hostelería · instalación presencial
 
 Se venden como sistema instalado en tu local con tu carta, tus facturas y tus turnos, nunca con
